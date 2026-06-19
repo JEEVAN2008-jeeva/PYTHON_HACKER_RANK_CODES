@@ -22,3 +22,13 @@ IN PYHTON
 <br>
 
 IF YOU FIND THIS REPOSITORY USEFUL, FEEL FREE TO STAR IT .
+
+
+# STRUCTURE OF THIS REPOSITORY 
+
+HACKERANK-SOLUTIONS
+<br>
+python/
+  |------ EASY <br>  <ul>
+  |-------MEDIUM<br>  <ul>
+  |-------HARD<br>
